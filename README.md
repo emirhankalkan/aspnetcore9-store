@@ -22,7 +22,7 @@ Modern ve kullanıcı dostu bir e-ticaret web uygulaması. ASP.NET Core 9.0 ve E
 - **Responsive Design**: Mobil uyumlu kullanıcı arayüzü
 - **Entity Framework**: Code-First yaklaşımı ile veritabanı yönetimi
 
-## 🛠 Teknolojiler
+## Teknolojiler
 
 - **Backend**: ASP.NET Core 9.0
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap
