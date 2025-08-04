@@ -1,0 +1,102 @@
+# === .NET Core & ASP.NET Core ===
+bin/
+obj/
+artifacts/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# ASP.NET Core Web Output
+wwwroot/dist/
+wwwroot/node_modules/
+wwwroot/*.map
+wwwroot/*.gz
+wwwroot/*.br
+
+# Build logs
+*.log
+*.tlog
+*.vshost.*
+*.vsp
+*.vspscc
+*.pdb
+*.cache
+*.mdb
+
+# Environment files
+.env
+.env.*  # includes .env.local, .env.production, etc.
+
+# IDE-specific
+.vs/
+.idea/
+*.code-workspace
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS-generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testresults
+*.trx
+
+# Node / frontend
+node_modules/
+bower_components/
+dist/
+build/
+.cache/
+.npm/
+.yarn/
+.yarnrc.yml
+.pnp.*
+*.tsbuildinfo
+*.tgz
+
+# Package management
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.lock.json
+project.lock.json
+
+# Logs and temp
+logs/
+*.pid
+*.pid.lock
+tmp/
+temp/
+
+# Publish output
+publish/
+*.pubxml
+*.publishsettings
+
+# Docker
+Dockerfile.*
+docker-compose.*
+*.dockerfile
+
+# Others
+_ReSharper*/
+*.DotSettings.user
+*.vsix
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.old
